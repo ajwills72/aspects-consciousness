@@ -10,7 +10,7 @@ study consciousness as a course option.
 
 ### Introduction to Some Aspects of Consciousness
 
-- Conceptions of consciousness (_2 hours_): [slides](concepts-intro.pdf)
+- Conceptions of consciousness (_2 hours_): [slides](concepts-intro.pdf), [instructor notes](concepts-instructor.md)
 
 - Awareness (_2 hours_): [slides](awareness-intro.pdf)
 
