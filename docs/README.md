@@ -12,7 +12,7 @@ study consciousness as a course option.
 
 - Conceptions of consciousness (_2 hours_): [slides](concepts-intro.pdf), [instructor notes](concepts-instructor.md)
 
-- Awareness (_2 hours_): [slides](awareness-intro.pdf)
+- Awareness (_2 hours_): [slides](awareness-intro.pdf), [instructor notes](awareness-instructor.md) 
 
 - Altered states (_2 hours_): [slides](altered-intro.pdf)
 
