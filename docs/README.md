@@ -16,7 +16,7 @@ study consciousness as a course option.
 
 - Altered states (_2 hours_): [slides](altered-intro.pdf), [instructor notes](altered-instructor.md) 
 
-- Recollection (_2 hours_): [slides](recollection-intro.pdf)
+- Recollection (_2 hours_): [slides](recollection-intro.pdf), [instructor notes](recollection-intro.md) 
 
 ### Advanced Aspects of Consciousness
 
