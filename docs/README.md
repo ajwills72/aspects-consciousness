@@ -10,17 +10,30 @@ study consciousness as a course option.
 
 ### Introduction to Some Aspects of Consciousness
 
+Materials for four two-hour sessions:
+
 - Conceptions of consciousness (_2 hours_): [slides](concepts-intro.pdf), [instructor notes](concepts-instructor.md)
 
 - Awareness (_2 hours_): [slides](awareness-intro.pdf), [instructor notes](awareness-instructor.md) 
 
 - Altered states (_2 hours_): [slides](altered-intro.pdf), [instructor notes](altered-instructor.md) 
 
-- Recollection (_2 hours_): [Extract from Proust](proust.txt), [slides](recollection-intro.pdf), [instructor notes](recollection-instructor.md) 
+- Recollection (_2 hours_): [Extract from Proust](adv/proust.txt), [slides](recollection-intro.pdf), [instructor notes](recollection-instructor.md) 
 
 ### Advanced Aspects of Consciousness
 
-Forthcoming!
+Below are materials for five two-hour sessions. There is also a [course overview](adv/coursebook.pdf) and some [essay guidance](adv/essay-guidance.pdf). 
+
+- Conceptions of consciousness (_2 hours_): [slides](adv/concepts.pdf)
+
+- Awareness (_2 hours_): [slides](adv/awareness.pdf)
+
+- Altered states (_2 hours_): [slides](adv/altered.pdf)
+
+- Recollection (_2 hours_): [Extract from Proust](adv/proust.txt), [slides](adv/recollection.pdf)
+
+- Addiction (_2 hours_): [slides](adv/addiction.pdf)
+
 
 ____
 
